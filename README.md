@@ -1,6 +1,6 @@
 ### Hi, I'm Aniketh 👋
 
-Senior mobile & full-stack engineer, Bangalore. 7+ years shipping production apps React Native apps for Amul and Syngenta (100K+ users, 4.5★), e-commerce platforms, and lately AI/LLM agents.
+Senior mobile & full-stack engineer, Bangalore. 7+ years shipping production apps React Native, e-commerce platforms, and lately AI/LLM agents.
 
 **Stack:** React Native · Expo · React / Next.js · Node.js · TypeScript · Supabase · Firebase · OpenAI / Vercel AI SDK · AWS (certified)
 
